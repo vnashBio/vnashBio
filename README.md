@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vnash
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently Employed at Ecat Online as a Web Developer and Designer
 - 💞️ I’m looking to collaborate on React.js Applications and any Front End gig available.
 - 📫 How to reach me rambudatshilidzi1@gmail.com
 
